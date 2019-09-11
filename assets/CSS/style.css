@@ -1,0 +1,69 @@
+#Myface{
+  height: 300px;
+  width: 200px;
+  margin-left: 10px
+}
+
+body{
+  border-color: #dddddd;
+  background-image: url(/assets/images/fishnets-and-hearts.png);
+}
+
+.container{
+  border-color: #dddddd;
+  background-color: #ffffff;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+h1{
+  color: #4aaaa5
+}
+
+.container img{
+  width:100%;
+  height: auto;
+}
+
+.col-4{
+  margin: 10px;
+}
+
+.row-images .btn {
+  position: absolute;
+  bottom: 0%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  width: 100%
+}
+.container .btn:hover {
+background-color: black;
+}
+
+.btn{
+  background-color: #4aaaa5;
+  color: #ffffff
+}
+
+.footer{
+  border-top: 8px solid #4aaaa5;
+}
+
+.navbar-brand{
+  background-color: #4aaaa5;
+  margin-left: 175px;
+  padding: 10px;
+}
+
+.text-center{
+  margin-left: 47%;
+  color: #dddddd;
+}
+#top{
+  border-bottom: 2px solid #cccccc;
+}
+
+#bottom{
+  border-top: 8px solid #4aaaa5;
+}
